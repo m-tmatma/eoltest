@@ -2,3 +2,5 @@ CRLF test
 CRLF test
 test
 
+CRLF test
+CRLF test
